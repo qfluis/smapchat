@@ -1,0 +1,19 @@
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+}
+.message {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+
+    margin-top:auto;
+    margin-bottom:auto;
+}
+
+.img-construction {
+    width:100%
+}
